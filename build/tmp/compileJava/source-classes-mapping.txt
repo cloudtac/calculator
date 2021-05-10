@@ -1,2 +1,0 @@
-com/cloudtac/calculator/CalculatorApplication.java
- com.cloudtac.calculator.CalculatorApplication
